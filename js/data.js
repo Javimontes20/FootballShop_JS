@@ -2,7 +2,7 @@ const footballShopItems = [
     {
       id: 1,
       nombre: "Balón Oficial FIFA",
-      imagen: "https://www.gransport.es/33839-large_default/balon-de-la-liga-puma-orbita-liga-1-fifa-quality-202425.jpg",
+    imagen: "https://www.futbolemotion.com/imagesarticulos/168526/grandes/balon-adidas-fifa-world-cup-qatar-2022-club-white-solar-red-pantone-0.webp",
       descripcion: "Balón de fútbol oficial, perfecto para competiciones.",
       precio: 29.99,
       stock: 15
